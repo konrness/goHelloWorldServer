@@ -18,7 +18,7 @@ Test1
 
 khkk
 
-Konr with RUN_CI
+Konr with SKIP_CI
    
     
          
