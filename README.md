@@ -18,9 +18,7 @@ Test1
 
 khkk
 
-Konr
-  
-   
+Konr with RUN_CI
    
     
          
